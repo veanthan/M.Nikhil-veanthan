@@ -1,0 +1,29 @@
+{
+    "vegetables" : [
+        {
+            "id" : 1,
+            "name" : "Tomato",
+            "description" : "....",
+            "stock" : 30,
+            "price" : 10
+        } 
+    ],
+    "Fruits" : [
+        {
+          "id": 1,
+          "name": "Mango",
+          "description": "....",
+          "stock": 30,
+          "price": 40
+        }
+    ],
+    "Dairy" : [
+        {
+          "id": 1,
+          "name": "Chesse",
+          "description": "....",
+          "stock": 30,
+          "price": 50
+        }
+    ]
+}

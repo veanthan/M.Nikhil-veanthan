@@ -1,0 +1,79 @@
+{
+    "Books":[
+        {
+            "id":1,
+            "title": "Title 1",
+            "author": "Author 1"
+        },
+        {
+            "id":2,
+            "title": "Title 2",
+            "author": "Author 2"
+        },
+        {
+            "id":3,
+            "title": "Title 3",
+            "author": "Author 3"
+        },
+        {
+            "id":4,
+            "title": "Title 4",
+            "author": "Author 4"
+        },
+        {
+            "id":5,
+            "title": "Title 5",
+            "author": "Author 6"
+        }
+    ],
+    "Products": [
+        {
+          "id": 1,
+          "productName": "name 1",
+          "productDescription": "Product description 1",
+          "price": 30
+        },
+        {
+          "id": 2,
+          "productName": "name 2",
+          "productDescription": "Product description 2",
+          "price": 30
+        },
+        {
+          "id": 3,
+          "productName": "name 3",
+          "productDescription": "Product description 3",
+          "price": 30
+        },
+        {
+          "id": 4,
+          "productName": "name 4",
+          "productDescription": "Product description 4",
+          "price": 30
+        },
+        {
+          "id": 5,
+          "productName": "name 5",
+          "productDescription": "Product description 5",
+          "price": 30
+        },
+        {
+          "id": 6,
+          "productName": "name 6",
+          "productDescription": "Product description 6",
+          "price": 30
+        },
+        {
+          "id": 7,
+          "productName": "name 7",
+          "productDescription": "Product description 7",
+          "price": 30
+        },
+        {
+            "id":8,
+            "productName": "name 8",
+            "productDescription": "Product description 8",
+            "price": 30
+        }
+    ]
+}
